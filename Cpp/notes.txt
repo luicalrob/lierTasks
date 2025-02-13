@@ -1,0 +1,10 @@
+g++ Program.cpp -o program
+or    
+g++ -g hello.cpp -o hello (for debugging)
+./program
+
+mkdir build
+cd build
+cmake ..
+make
+./prueba_paralaje

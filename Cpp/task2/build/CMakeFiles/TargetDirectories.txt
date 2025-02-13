@@ -1,0 +1,4 @@
+/home/luis/Envs/Cpp/task2/build/CMakeFiles/finanzas.dir
+/home/luis/Envs/Cpp/task2/build/CMakeFiles/finanzas_test.dir
+/home/luis/Envs/Cpp/task2/build/CMakeFiles/edit_cache.dir
+/home/luis/Envs/Cpp/task2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/finanzas.dir/main.cpp.o CMakeFiles/finanzas.dir/finanzas.cpp.o -o finanzas 

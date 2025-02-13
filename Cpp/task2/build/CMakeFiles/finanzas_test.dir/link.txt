@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/finanzas_test.dir/finanzas_test.cpp.o CMakeFiles/finanzas_test.dir/finanzas.cpp.o -o finanzas_test  -lgtest -lgtest_main -lpthread 

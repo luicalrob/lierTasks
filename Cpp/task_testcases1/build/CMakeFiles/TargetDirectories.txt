@@ -1,0 +1,3 @@
+/home/luis/Envs/Cpp/task_testcases1/build/CMakeFiles/prueba_paralaje.dir
+/home/luis/Envs/Cpp/task_testcases1/build/CMakeFiles/edit_cache.dir
+/home/luis/Envs/Cpp/task_testcases1/build/CMakeFiles/rebuild_cache.dir

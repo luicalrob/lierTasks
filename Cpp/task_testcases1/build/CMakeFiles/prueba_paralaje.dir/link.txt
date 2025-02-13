@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/prueba_paralaje.dir/prueba_paralaje.cpp.o -o prueba_paralaje  -lpthread /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

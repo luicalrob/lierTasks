@@ -1,0 +1,14 @@
+/home/luis/CSharpEnv/bin/Debug/net8.0/CSharpEnv
+/home/luis/CSharpEnv/bin/Debug/net8.0/CSharpEnv.deps.json
+/home/luis/CSharpEnv/bin/Debug/net8.0/CSharpEnv.runtimeconfig.json
+/home/luis/CSharpEnv/bin/Debug/net8.0/CSharpEnv.dll
+/home/luis/CSharpEnv/bin/Debug/net8.0/CSharpEnv.pdb
+/home/luis/CSharpEnv/obj/Debug/net8.0/CSharpEnv.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/CSharpEnv/obj/Debug/net8.0/CSharpEnv.AssemblyInfoInputs.cache
+/home/luis/CSharpEnv/obj/Debug/net8.0/CSharpEnv.AssemblyInfo.cs
+/home/luis/CSharpEnv/obj/Debug/net8.0/CSharpEnv.csproj.CoreCompileInputs.cache
+/home/luis/CSharpEnv/obj/Debug/net8.0/CSharpEnv.dll
+/home/luis/CSharpEnv/obj/Debug/net8.0/refint/CSharpEnv.dll
+/home/luis/CSharpEnv/obj/Debug/net8.0/CSharpEnv.pdb
+/home/luis/CSharpEnv/obj/Debug/net8.0/CSharpEnv.genruntimeconfig.cache
+/home/luis/CSharpEnv/obj/Debug/net8.0/ref/CSharpEnv.dll
